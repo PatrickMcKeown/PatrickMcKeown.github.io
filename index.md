@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Patrick McKeown's Portfolio
+description: Welcome to Patrick's Analytics and Lean Six Sigma Portfolio
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
