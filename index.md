@@ -1,5 +1,5 @@
 ---
-title: Patrick McKeown's Portfolio
+title: Patrick McKeown
 description: Analytics and Lean Six Sigma Portfolio
 ---
 
