@@ -4,7 +4,7 @@ description: Analytics and Lean Six Sigma Portfolio
 ---
 ![My Picture](/PatrickMcKeown.jpg)
 
-This is content I've developed for my courses:
+Welcome.  Below you'll find examples of course content I've developed through my coursework in the MS Business Analytics program at William & Mary:  
 
 - [Time Series Decomposition](/Timeseries/index.md)
 
